@@ -1,0 +1,30 @@
+body
+{
+    background-color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: white;
+}
+table, th, td
+{
+    align-items: center;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+h1
+{
+    font-size: 48px;
+    color: red;
+}
+a
+{
+    color: yellow;
+}
+a :hover
+{
+    color: red;
+}
+a :visited
+{
+    color: green;
+}

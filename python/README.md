@@ -18,6 +18,8 @@ Służą do wykonywania wszelkiego rodzaju działan na liczbach takich jak:
 - '//' dzielenie całk
 - '%'  reszta z dzielenia dwóch liczb całk
 - '**' potęgowanie
+```python:tygielinfa/python/prz1.py
+```
 
 ## Operatory logiczne. 
 Mają zastosowanie w miejscach gdzie występują różnego rodzaju warunki. Głównie w pętlach i instrukcjachwarunkowych do nich zaliczamy:

@@ -37,3 +37,4 @@ Stosujemy w sytułacjach gddy jest potrzeba porównania 2 elementów. Najczęśc
 ## Operatory przypisania.
 Przypisanie polega na nadaniu wartości dla zmiennej znajdującej się po lewej stronie wartości po prawej stronie. 
 - Podstawowym operatorem przypisania jest "="
+- Przypisanie mozna dokonać poprzedzając je pewną operacją

@@ -19,7 +19,7 @@ Służą do wykonywania wszelkiego rodzaju działan na liczbach takich jak:
 - '%'  reszta z dzielenia dwóch liczb całk
 - '**' potęgowanie
 
-```python:(python/prz1.py)
+```python:prz1.py
 ```
 
 ## Operatory logiczne. 

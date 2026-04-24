@@ -1,6 +1,6 @@
 # Operatory w Pythonie
 
-## W Pythonie wyrużniamy poniższe operandy
+## W Pythonie wyróżniamy poniższe operandy
 - artmetyczne
 - logiczne
 - relacyjne

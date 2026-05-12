@@ -93,3 +93,30 @@ print("a =", a)
 a //= 30
 print("a =", a)
 ```
+
+## Operatory identycznosciowe
+Operatory te okreslają czy dwie zmienne przechowują ten sam obiekt. Wyróżniamy:
+- is
+- notis
+```
+x = "kot"
+y = "pies"
+if x is not y:
+    print("Obiekty są różne")
+if x is y:
+    print("Obiekry są identyczne")
+```
+## Operatory przynależności
+Operatory tego typu sprawdzają czy dany element znajduje się w podzbiorze wart danego obiektu. Mamy dwa takie operatory:
+- in
+- not in
+```
+x = "ala ma kota"
+if "ma" in x:
+    print("wyraz ma występuje w ", x )
+y = [ 2, 3, 4 , 67]
+if "4" in y:
+    print("jest 4 w ", y)
+else:
+    print("niema 4 w ", y)
+```

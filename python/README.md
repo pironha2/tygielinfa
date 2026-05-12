@@ -120,3 +120,8 @@ if "4" in y:
 else:
     print("niema 4 w ", y)
 ```
+## Instrukcje warunkowe:
+- if
+- if else
+- if elif
+- if in
